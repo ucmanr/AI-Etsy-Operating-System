@@ -20,6 +20,5 @@ To build an automated, AI-operated digital product company that empowers neurodi
 
 ## 5. Core Decision Principles
 1. **Validation First**: Never spend >2 hours building a product without a Confidence Score >85/100.
-.
 2. **No Direct Cloning**: We do not copy competitors; we identify their 1-star review complaints and solve that specific gap.
 3. **Revenue-Weighted Prioritization**: Tasks that directly lead to a live, optimized listing take precedence over internal tooling.
