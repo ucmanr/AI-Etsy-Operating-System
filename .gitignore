@@ -1,0 +1,17 @@
+.env
+
+*.log
+
+*.tmp
+
+Thumbs.db
+
+.vscode
+
+.idea
+
+node_modules
+
+__pycache__
+
+.DS_Store
