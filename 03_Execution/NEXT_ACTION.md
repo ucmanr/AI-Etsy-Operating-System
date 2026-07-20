@@ -1,24 +1,25 @@
-# NEXT ACTION
+﻿# NEXT ACTION
 
-1.
+## Task
+Review and publish the Etsy listing.
 
-Finish Etsy Shop
+## Owner
+Founder
 
-2.
+## Status
+Pending Approval
 
-Publish MVP
+## Checklist
 
-3.
+- Review title
+- Review description
+- Review tags
+- Verify digital files
+- Upload listing to Etsy
+- Publish
 
-Track Day 3 metrics
+## Priority
+High
 
-4.
-
-Collect customer language
-
-5.
-
-Improve listing
-
-No additional research unless it increases revenue probability.
-
+## Blocked
+False

@@ -1,13 +1,13 @@
 ﻿{
+    "blocker":  null,
+    "next_action":  "Approve and publish the Etsy listing",
     "project":  "FrazzledFocus",
     "current_product":  "Zero-Guilt ADHD Emergency Reset Kit",
-    "phase":  "Qwen Onboarding",
-    "status":  "Ready",
-    "current_task":  "Load the operating files into Qwen",
-    "next_action":  "Create a Qwen project and upload the onboarding batch",
+    "phase":  "Pre-Publish",
+    "last_updated":  "2026-07-20",
+    "current_task":  "Founder review of Etsy listing package",
+    "founder_approval_required":  true,
+    "status":  "Listing Assets Ready",
     "priority":  "High",
-    "blocked":  false,
-    "blocker":  null,
-    "founder_approval_required":  false,
-    "last_updated":  "2026-07-20"
+    "blocked":  false
 }
