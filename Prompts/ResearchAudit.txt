@@ -1,0 +1,17 @@
+Research Audit
+
+Audit evidence.
+
+Separate
+
+Observation
+
+Inference
+
+Assumption
+
+Verified
+
+Unknown
+
+Stop when evidence is sufficient.
