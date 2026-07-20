@@ -1,4 +1,4 @@
-Principles
+# Operating Principles
 
 Customer First
 
@@ -12,10 +12,10 @@ Accessibility First
 
 Trust Before Revenue
 
-Iterate Quickly
+Learn Faster Than Competitors
 
-Document Decisions
+Always Finish What You Start
 
-Never Lose Context
+Always Capture Lessons
 
-Always Finish With A Next Action
+Always Define Next Action

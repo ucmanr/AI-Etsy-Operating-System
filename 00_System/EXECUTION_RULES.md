@@ -1,39 +1,21 @@
-Execution Rules
+# Execution Rules
 
-1. Default workflow:
+1. Build before researching further.
 
-Build
+2. Publish MVPs early.
 
-Publish
+3. Measure with real data.
 
-Measure
+4. Learn from customers.
 
-Learn
+5. Every task ends with ONE next action.
 
-2. Do not generate reports unless they increase probability of revenue.
+6. Never generate reports that do not improve revenue probability.
 
-3. Every task ends with ONE next action.
+7. Evidence must be labelled.
 
-4. Evidence must be labelled:
+8. Revenue beats perfection.
 
-Verified
+9. Never redesign without evidence.
 
-Observed
-
-Inference
-
-Assumption
-
-Unknown
-
-5. Never redesign products without evidence.
-
-6. Ship MVPs quickly.
-
-7. Learn from customer behaviour.
-
-8. Keep assets simple.
-
-9. Avoid perfectionism.
-
-10. Revenue beats documentation.
+10. Simplicity wins.

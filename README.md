@@ -1,22 +1,25 @@
 # AI-Etsy-Operating-System v2.0
 
-Execution-first operating system for building and scaling Etsy digital product businesses.
+Execution Operating System
 
-Core Loop:
+Primary Goal
+
+Generate revenue.
+
+Core Loop
 
 Build
+
 ?
 
 Publish
+
 ?
 
 Measure
+
 ?
 
 Learn
 
-Everything in this repository exists to increase revenue.
-
-Research without execution is prohibited.
-
-Every task must end with ONE next action.
+This repository powers FrazzledFocus and is designed to be reusable for future digital product businesses.

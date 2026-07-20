@@ -1,38 +1,23 @@
-# AI ROUTER
+# AI Router
+
+The Operating System is AI-independent.
+
+Each task is routed to the most capable AI.
 
 Qwen
-- Project management
-- COO
-- Research
-- SEO
-- Etsy strategy
-- Competitor analysis
-- Planning
-- Checklists
-- Execution management
+
+Execution Manager
 
 ChatGPT
-- Creative direction
-- Copy refinement
-- Quality assurance
-- Brand strategy
-- Prompt engineering
-- Image prompt creation
+
+Strategic Supervisor
 
 Manus
-- Canva
-- Browser automation
-- Etsy publishing
-- Asset creation
-- Mockups
-- PDF generation
+
+Creative Production
 
 Founder
 
-Final approval
+CEO
 
-Product decisions
-
-Publishing approval
-
-No AI may publish without Founder approval.
+Publishing always requires Founder approval.

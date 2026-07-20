@@ -1,15 +1,17 @@
 # Lessons Learned
 
-Every completed sprint adds:
+Purpose
 
-What happened
+Prevent repeating mistakes.
 
-Why
+Every experiment records
+
+Observation
 
 Evidence
 
 Decision
 
-Next improvement
+Result
 
-This file prevents repeating mistakes.
+Next Improvement
