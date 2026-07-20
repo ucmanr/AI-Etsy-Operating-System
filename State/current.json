@@ -1,8 +1,13 @@
-{
-  "project": "FrazzledFocus",
-  "current_product": "Zero-Guilt ADHD Emergency Reset Kit",
-  "status": "Pre-Publish",
-  "current_task": "Complete Etsy shop and publish MVP",
-  "priority": "High",
-  "blocked": false
+﻿{
+    "project":  "FrazzledFocus",
+    "current_product":  "Zero-Guilt ADHD Emergency Reset Kit",
+    "phase":  "Qwen Onboarding",
+    "status":  "Ready",
+    "current_task":  "Load the operating files into Qwen",
+    "next_action":  "Create a Qwen project and upload the onboarding batch",
+    "priority":  "High",
+    "blocked":  false,
+    "blocker":  null,
+    "founder_approval_required":  false,
+    "last_updated":  "2026-07-20"
 }
